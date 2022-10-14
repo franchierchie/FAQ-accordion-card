@@ -111,10 +111,6 @@ body {
 
 /* img */
 
-.box {
-    display: none;
-}
-
 .desktop {
     display: none;
 }
@@ -163,15 +159,6 @@ body {
         margin: 0;
         margin-left: -8rem;
         padding: 0;
-    }
-
-    .box {
-        display: block;
-        position: absolute;
-        z-index: 1;
-        top: 38%;
-        left: 10vw;
-        transition: .3s;
     }
 
     .container {
